@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The beginning."
-permalink: /1/
+permalink: /1
 ---
 
 <p align="center">
